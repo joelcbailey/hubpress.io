@@ -2,14 +2,15 @@
   "meta": {
     "username": "joelcbailey",
     "repositoryName": "joelcbailey.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
     "site": "https://joelcbailey.github.io",
-    "hubpress": "https://joelcbailey.github.io",
+    "hubpress": "http://underskater.com",
     "theme": "//joelcbailey.github.io/themes/casper",
     "images": "https://joelcbailey.github.io/images"
   },
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "UA-105382504-1",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
